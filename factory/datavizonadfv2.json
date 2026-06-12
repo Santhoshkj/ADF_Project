@@ -1,0 +1,15 @@
+{
+	"name": "datavizonadfv2",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "001e9257-05dc-4f9d-beaf-b0e1036d7c00",
+		"tenantId": "88f944d0-1278-45f9-88d8-dc81b5f77b17"
+	}
+}
